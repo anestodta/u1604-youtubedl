@@ -3,8 +3,8 @@ MAINTAINER glg8505@gmail.com
 
 ENV DEBIAN_FRONTEND noninteractive
 
-# Install youtube-dl
-RUN apt-get update && apt-get install -y youtube-dl
+# Install dependencies
+RUN apt-get update && apt-get install -y wget youtube-dl
 
 # Update youtube-dl
 RUN youtube-dl -U
