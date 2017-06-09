@@ -1,2 +1,2 @@
-youtube-dl --no-progress --quiet \
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
            https://www.youtube.com/playlist?list=PLGvULzdBy_-lv5A0elHU9_kv_6TqH30tm
