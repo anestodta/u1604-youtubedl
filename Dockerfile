@@ -4,8 +4,11 @@ MAINTAINER glg8505@gmail.com
 ENV DEBIAN_FRONTEND noninteractive
 
 # Install dependencies
-RUN apt-get update && \
-    apt-get install -y wget curl youtube-dl megatools
+RUN apt-get update -qq && apt-get install -qqy \
+    wget \
+    curl \
+    youtube-dl \
+    megatools
 
 # Update youtube-dl
 RUN youtube-dl -U 
