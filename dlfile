@@ -2,4 +2,4 @@
 #youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
 #           https://www.youtube.com/playlist?list=PLGvULzdBy_-mjSZdId3FvJ_GeHYgti42n
 
-youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=a53B48MCpnE https://www.youtube.com/watch?v=uF063tCYJQc https://www.youtube.com/watch?v=eRxzXrUqp8g https://www.youtube.com/watch?v=5cFHuu7uMr4 https://www.youtube.com/watch?v=PvdD3qOEi9I https://www.youtube.com/watch?v=xjwXnt_Dhrw
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=PW4nBiK1UXA https://www.youtube.com/watch?v=B6MvWq2VsFI https://www.youtube.com/watch?v=iR32ARpNjQU https://www.youtube.com/watch?v=NkUxG7kylPQ https://www.youtube.com/watch?v=20hkMAXbsPM
