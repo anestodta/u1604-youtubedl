@@ -2,12 +2,4 @@
 #youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
 #           https://www.youtube.com/playlist?list=PLGvULzdBy_-mjSZdId3FvJ_GeHYgti42n
 
-youtube-dl --no-progress --quiet --ignore-errors \
-  https://www.youtube.com/watch?v=ml6qnMqaJK8 \
-  https://www.youtube.com/watch?v=xwjwCFZpdns \
-  https://www.youtube.com/watch?v=XNWlrawfRAI \
-  https://www.youtube.com/watch?v=6Mgqbai3fKo \
-  https://www.youtube.com/watch?v=aatr_2MstrI \
-  https://www.youtube.com/watch?v=papuvlVeZg8 \
-  https://www.youtube.com/watch?v=HHP5MKgK0o8 \
-  https://www.youtube.com/watch?v=ij_0p_6qTss
+youtube-dl --no-progress --quiet --ignore-errors ml6qnMqaJK8 xwjwCFZpdns XNWlrawfRAI 6Mgqbai3fKo aatr_2MstrI papuvlVeZg8 HHP5MKgK0o8 ij_0p_6qTss
