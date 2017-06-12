@@ -8,15 +8,14 @@ RUN apt-get update -qq && apt-get install -qqy \
     curl \
     megatools
     
-RUN wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl ; \
-    chmod a+x /usr/local/bin/youtube-dl ; \
-    hash -r
+RUN curl --silent -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+RUN chmod a+rx /usr/local/bin/youtube-dl
+RUN youtube-dl --version
 
 WORKDIR /dl
 
 ADD dlfile ./dlfile
 
-RUN cd /dl && \
-    /bin/bash ./dlfile
+RUN cd /dl && /bin/bash /dl/dlfile
 
 RUN megacopy --no-progress -u glg8505@gmail.com -p Togtojononna1* --local /dl --remote /Root/dl
