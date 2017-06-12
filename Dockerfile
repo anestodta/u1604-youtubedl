@@ -14,10 +14,9 @@ RUN chmod a+rx /usr/local/bin/youtube-dl
 
 WORKDIR /dl
 
-RUN cd /dl && youtube-dl ml6qnMqaJK8
+ADD dlfile ./dlfile
 
-#ADD dlfile ./dlfile
-#
-#RUN cd /dl && /bin/bash /dl/dlfile
-#
+RUN cd /dl && \
+    /bin/bash ./dlfile
+
 RUN megacopy --no-progress -u glg8505@gmail.com -p Togtojononna1* --local /dl --remote /Root/dl
