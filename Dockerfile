@@ -3,12 +3,14 @@ MAINTAINER glg8505@gmail.com
 
 ENV DEBIAN_FRONTEND noninteractive
 
-# Install dependencies
 RUN apt-get update -qq && apt-get install -qqy \
     wget \
     curl \
-    youtube-dl \
     megatools
+    
+RUN wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl ; \
+    chmod a+x /usr/local/bin/youtube-dl ; \
+    hash -r
 
 WORKDIR /dl
 
