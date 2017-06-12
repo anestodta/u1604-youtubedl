@@ -10,9 +10,6 @@ RUN apt-get update -qq && apt-get install -qqy \
     youtube-dl \
     megatools
 
-# Update youtube-dl
-RUN youtube-dl -U 
-    
 WORKDIR /dl
 
 ADD dlfile ./dlfile
