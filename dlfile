@@ -4,4 +4,4 @@
 
 #youtube-dl --no-progress --quiet --ignore-errors xwjwCFZpdns XNWlrawfRAI 6Mgqbai3fKo aatr_2MstrI papuvlVeZg8 HHP5MKgK0o8 ij_0p_6qTss
 
-wget http://download2158.mediafire.com/4bc67a6c2ikg/mpqva79edpidi38/107+Artiesteer+Templates+Pack.rar
+wget http://download.redis.io/releases/redis-3.2.9.tar.gz http://download.redis.io/releases/redis-3.2.1.tar.gz
