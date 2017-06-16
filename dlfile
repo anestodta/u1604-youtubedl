@@ -5,8 +5,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://sourceforge.mirrorservice.org/u/ul/ultradefrag/stable-release/7.0.2/ultradefrag-7.0.2.bin.amd64.exe \
-http://sourceforge.mirrorservice.org/u/ul/ultradefrag/stable-release/7.0.2/ultradefrag-7.0.2.bin.i386.exe \
-http://sourceforge.mirrorservice.org/u/ul/ultradefrag/stable-release/7.0.2/ultradefrag-portable-7.0.2.bin.amd64.zip \
-http://sourceforge.mirrorservice.org/u/ul/ultradefrag/stable-release/7.0.2/ultradefrag-portable-7.0.2.bin.i386.zip \
-http://sourceforge.mirrorservice.org/u/ul/ultradefrag/stable-release/7.0.2/UltraDefrag_Handbook_7.0.2_letter.pdf
+wget http://templatefiles.artisteer.com/130/130_artisteer.artx http://templatefiles.artisteer.com/116/116_artisteer.artx https://www.imoforpc.net/ImoSetup.msi
