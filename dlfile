@@ -5,5 +5,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl https://www.youtube.com/watch?v=yJI_98hMkbo https://www.youtube.com/watch?v=PPwS2-zlR64
-wget http://jorgen.cubava.cu/files/2017/06/ampere-v2-07.zip
+youtube-dl --extract-audio --audio-format mp3 --audio-quality 0 https://www.youtube.com/watch?v=KmEdXPOuTWA
