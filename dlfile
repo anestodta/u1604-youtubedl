@@ -5,6 +5,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl https://www.youtube.com/watch?v=lY2yjAdbvdQ
-
-#wget https://dl.opendesktop.org/api/files/download/id/1497148820/opendesktop-app_1.0.2-0ubuntu1_amd64.deb
+wget http://archive.ubuntu.com/ubuntu/pool/main/f/firefox/firefox_54.0+build3-0ubuntu0.16.04.1_amd64.deb http://archive.ubuntu.com/ubuntu/pool/main/f/firefox/firefox_54.0+build3-0ubuntu0.16.04.1_i386.deb
