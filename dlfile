@@ -5,4 +5,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://archive.ubuntu.com/ubuntu/pool/main/f/firefox/firefox_54.0+build3-0ubuntu0.16.04.1_amd64.deb http://archive.ubuntu.com/ubuntu/pool/main/f/firefox/firefox_54.0+build3-0ubuntu0.16.04.1_i386.deb
+youtube-dl https://www.youtube.com/watch?v=XtgjuOOw3tA https://www.youtube.com/watch?v=-wDxbbhpozU https://www.youtube.com/watch?v=XtgjuOOw3tA https://www.youtube.com/watch?v=0cFt4NBq0Rw https://www.youtube.com/watch?v=OkdGBgML23E
