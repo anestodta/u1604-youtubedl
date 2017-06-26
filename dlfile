@@ -5,4 +5,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl https://www.youtube.com/watch?v=XtgjuOOw3tA https://www.youtube.com/watch?v=-wDxbbhpozU https://www.youtube.com/watch?v=XtgjuOOw3tA https://www.youtube.com/watch?v=0cFt4NBq0Rw https://www.youtube.com/watch?v=OkdGBgML23E
+youtube-dl https://www.youtube.com/watch?v=WnAGCbKSDFA
