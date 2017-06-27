@@ -5,13 +5,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/FontAwesomePNGIcons.zip \
-https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/FontAwesomeIcons_1.0.zip \
-https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/TabNav.zip \
-https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/JQUERY.zip \
-https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/DefaultHTML.zip \
-https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/touchscreen.zip \
-https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/GUIPrototypingTemplate.zip \
-https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/AndroidSketching-1.0.zip \
-https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/famfamfam_silkv013.zip \
-https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/glyphish_icons.zip
+wget http://190.131.246.48/sitespeed
