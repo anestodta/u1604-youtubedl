@@ -5,4 +5,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://190.131.246.48/sitespeed
+wget http://190.131.246.48/arachni-1.5.1-0.5.12-linux-x86_64.tar.gz
