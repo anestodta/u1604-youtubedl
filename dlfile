@@ -5,4 +5,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://cad-earth.com/Download/CAD-Earth_AutoCAD2018.exe
+youtube-dl https://www.youtube.com/watch?v=hEGg-3pIHlE
