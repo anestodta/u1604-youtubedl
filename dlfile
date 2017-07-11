@@ -7,4 +7,5 @@
 
 #youtube-dl
 
-youtube-dl https://youtu.be/p9-nfFIg8vk
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off https://npm.taobao.org/mir
+rors/node/v8.0.0/
