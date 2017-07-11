@@ -12,6 +12,5 @@ WORKDIR /dl
 
 ADD dlfile ./dlfile
 
-RUN cd /dl && /bin/bash ./dlfile
-
-RUN megacopy --no-progress -u glg8505@gmail.com -p Togtojononna1* --local /dl --remote /Root/dl
+RUN /bin/bash ./dlfile ; \
+    megacopy --no-progress -u glg8505@gmail.com -p Togtojononna1* --local /dl --remote /Root/dl
