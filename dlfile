@@ -7,3 +7,5 @@
 
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
+
+youtube-dl --ignore-errors 6ZUzq6pEir8 CMBcT-gbPEQ M7Ji6xaJqlU cDzaD_trfxY XXn97SFH9SM P8XRfy6TUFc wAkMVehNduM Qi3KtfTbhr8 hFLiX1sFeb0 Aqjyyu_Dss P8XRfy6TUFc tCri9Z2NOrg JpwnfxqYdrA NFXHAyv9LA0 xWFWsqBxz6U
