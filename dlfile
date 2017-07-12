@@ -8,9 +8,9 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-#youtube-dl
+wget https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64/repodata/filelists.xml https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64/repodata/filelists.xml.gz https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64/repodata/other.xml https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64/repodata/other.xml.gz https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64/repodata/primary.xml https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64/repodata/primary.xml.gz https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64/repodata/repomd.xml https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64/repodata/repomd.xml.asc
 
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
-           https://www.youtube.com/watch?list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V
-           
-youtube-dl https://www.youtube.com/watch?v=vSFH1T3SnBY
+wget https://packages.cloud.google.com/yum/doc/apt-key.gpg https://packages.cloud.google.com/yum/doc/rpm-pa
+ckage-key.gpg https://packages.cloud.google.com/yum/doc/yum-key.gpg
+
+wget https://packages.cloud.google.com/yum/pool/cb7034dff51af01c237e03ea342dc74269b46cce1e43bb0ab9ef1d6f006ebda9-kubeadm-1.7.0-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/888aff6bf68f988e7480efd06f38852eef8a44eed1baaa62f3ec4fbb07c35f7d-kubectl-1.7.0-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/8f94c56214c25f72f999f8a9c099275c2e1b99110a155679c1eda293192c26a7-kubelet-1.7.0-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/e7a4403227dd24036f3b0615663a371c4e07a95be5fee53505e647fd8ae58aa6-kubernetes-cni-0.5.1-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/01b97b0ddb967d0ed9fd78327a784efbfea8cd0d9789f5bab8b9bbfe94477c60-rkt-1.27.0-1.x86_64.rpm
