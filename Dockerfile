@@ -1,12 +1,7 @@
-FROM ubuntu:16.04
+FROM genrylg/docker-dl-tools:latest
 MAINTAINER glg8505@gmail.com
 
 ENV DEBIAN_FRONTEND noninteractive
-
-RUN apt-get update -qq && apt-get install -qqy wget curl megatools python httrack
-    
-RUN curl --silent -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
-RUN chmod a+rx /usr/local/bin/youtube-dl
 
 WORKDIR /dl
 
