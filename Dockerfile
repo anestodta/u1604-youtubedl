@@ -1,4 +1,4 @@
-FROM genrylg/docker-dl-tools:latest
+FROM genryx/docker-dl-tools:latest
 MAINTAINER glg8505@gmail.com
 
 ENV DEBIAN_FRONTEND noninteractive
