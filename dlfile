@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget https://go.microsoft.com/fwlink/?LinkID=623230 https://go.microsoft.com/fwlink/?LinkID=760868
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent https://npm.taobao.org/mirrors/node/v8.1.4/
