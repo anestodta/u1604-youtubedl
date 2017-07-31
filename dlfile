@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl https://www.youtube.com/watch?v=TC5fod_bwvY https://www.youtube.com/watch?v=r_11JjJNNJw https://www.youtube.com/watch?v=C3RlLucnuXs https://www.youtube.com/watch?v=JQWOam0oxfM https://www.youtube.com/watch?v=oijQ8rA6PZ4 https://www.youtube.com/watch?v=JqUItN3ALeQ https://www.youtube.com/watch?v=RNAn0xZktCw https://www.youtube.com/watch?v=Bqt5RWk0ubY https://www.youtube.com/watch?v=gtFGF-tU1PY https://www.youtube.com/watch?v=mnQdURIXOO0
+
