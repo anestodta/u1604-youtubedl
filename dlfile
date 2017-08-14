@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://dl.apk-downloaders.com/apps/2017/03/21/adoble-transicuba%201.1.2_[www.Downloader-Apk.com].apk
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=sPTn0QEhxds https://www.youtube.com/watch?v=JGwWNGJdvx8 https://www.youtube.com/watch?v=lf8xoMhV8pI https://www.youtube.com/watch?v=vyleKZJXBN8
