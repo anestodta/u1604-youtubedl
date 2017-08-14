@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=rYxWSV-x65I https://www.youtube.com/watch?v=tu0Jh79vsRk https://www.youtube.com/watch?v=x1wCcv3FZCs
+wget http://dl.apk-downloaders.com/apps/2017/06/25/hypocam%201.18_[www.Downloader-Apk.com].apk
