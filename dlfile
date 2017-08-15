@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://apk-downloaders.com/apps/2017/08/16/com.facebook.katana_136.0.0.22.91_[apk-downloaders.com].apk
+wget http://apk-downloaders.com/apps/2017/08/15/com.facebook.orca_130.0.0.15.89_[apk-downloaders.com].apk
