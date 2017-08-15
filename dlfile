@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=sPTn0QEhxds https://www.youtube.com/watch?v=JGwWNGJdvx8 https://www.youtube.com/watch?v=lf8xoMhV8pI https://www.youtube.com/watch?v=vyleKZJXBN8
+wget http://releases.ubuntu.com/16.04/ubuntu-16.04.3-desktop-amd64.iso http://releases.ubuntu.com/16.04/ubuntu-16.04.3-server-amd64.iso
