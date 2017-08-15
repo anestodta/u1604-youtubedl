@@ -8,6 +8,6 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl https://www.youtube.com/watch?v=T0ivG4Ew-Lk
-wget http://apk-downloaders.com/apps/2017/08/15/com.jiubang.goscreenlock_6.06_[apk-downloaders.com].apk
-wget http://apk-downloaders.com/apps/2017/08/15/com.zuimeia.suite.lockscreen.international_2.2.2_[apk-downloaders.com].apk
+wget -O Firefox_Setup_es-ES_x64_55.0.1.exe https://ftp.mozilla.org/pub/firefox/releases/55.0.1/win64/es-ES/Firefox%20Setup%2055.0.1.exe
+wget -O Firefox_Setup_en-US_x64_55.0.1.exe https://ftp.mozilla.org/pub/firefox/releases/55.0.1/win64/en-US/Firefox%20Setup%2055.0.1.exe
+wget http://archive.ubuntu.com/ubuntu/pool/main/f/firefox/firefox_55.0.1+build2-0ubuntu0.16.04.2_amd64.deb
