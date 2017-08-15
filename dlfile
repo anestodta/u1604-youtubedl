@@ -8,4 +8,6 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://releases.ubuntu.com/16.04/ubuntu-16.04.3-desktop-amd64.iso http://releases.ubuntu.com/16.04/ubuntu-16.04.3-server-amd64.iso
+youtube-dl https://www.youtube.com/watch?v=T0ivG4Ew-Lk
+wget http://apk-downloaders.com/apps/2017/08/15/com.jiubang.goscreenlock_6.06_[apk-downloaders.com].apk
+wget http://apk-downloaders.com/apps/2017/08/15/com.zuimeia.suite.lockscreen.international_2.2.2_[apk-downloaders.com].apk
