@@ -8,6 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget -O Firefox_Setup_es-ES_x64_55.0.1.exe https://ftp.mozilla.org/pub/firefox/releases/55.0.1/win64/es-ES/Firefox%20Setup%2055.0.1.exe
-wget -O Firefox_Setup_en-US_x64_55.0.1.exe https://ftp.mozilla.org/pub/firefox/releases/55.0.1/win64/en-US/Firefox%20Setup%2055.0.1.exe
-wget http://archive.ubuntu.com/ubuntu/pool/main/f/firefox/firefox_55.0.1+build2-0ubuntu0.16.04.2_amd64.deb
+wget http://apk-downloaders.com/apps/2017/08/16/com.facebook.katana_136.0.0.22.91_[apk-downloaders.com].apk
