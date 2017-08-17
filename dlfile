@@ -8,4 +8,14 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://apk-downloaders.com/apps/2017/08/15/com.facebook.orca_130.0.0.15.89_[apk-downloaders.com].apk
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=lWfg9CNg-uE \
+https://www.youtube.com/watch?v=KC_FtJCHrIw \
+https://www.youtube.com/watch?v=hgqm9f92AAg \
+https://www.youtube.com/watch?v=B6cKX9oj7L4
+
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+https://www.youtube.com/playlist?list=PL-Z6RvI-z9YhxGOFWNWcUuzBm9gl7YWg6
+
+wget http://apk-downloaders.com/apps/2017/08/16/org.hola_ARM7A_1.57.812_[apk-downloaders.com].apk
+
+wget http://apk-downloaders.com/apps/2017/08/16/hotspotshield.android.vpn_5.7.3_[apk-downloaders.com].apk
