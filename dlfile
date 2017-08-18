@@ -8,4 +8,17 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://www.videojuego.cu/sites/default/files/videojuegos/Tutu.apk
+youtube-dl --no-progress --quiet --ignore-errors \
+https://www.youtube.com/watch?v=HMxyzhn78gA \
+https://www.youtube.com/watch?v=bPV7ENlh3h0 \
+https://youtu.be/sOWWBWE34sQ \
+https://youtu.be/aNLMOmwCPzs \
+https://youtu.be/64oJW7x0-nk \
+https://www.youtube.com/watch?v=9qH8S-3GlJ8 \
+https://www.youtube.com/watch?v=IMIGBrrm-z8 \
+https://www.youtube.com/watch?v=64ENyhn5i6M \
+https://www.youtube.com/watch?v=M_wfJndBMqM \
+https://www.youtube.com/watch?v=IMIGBrrm-z8 \
+https://www.youtube.com/watch?v=TyC1sDcyGcY \
+https://www.youtube.com/watch?v=eGI3_6Em3s0 \
+https://www.youtube.com/watch?v=LOUAMjwY0Jw
