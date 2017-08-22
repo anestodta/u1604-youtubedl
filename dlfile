@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget -O gitlab-ci-multi-runner-9.4.0 https://gitlab-ci-multi-runner-downloads.s3.amazonaws.com/v9.4.0/binaries/gitlab-ci-multi-runner-linux-amd64
+wget https://github.com/docker/compose/releases/download/1.15.0/docker-compose-Linux-x86_64
