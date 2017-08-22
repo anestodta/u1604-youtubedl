@@ -8,7 +8,7 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl --write-sub --write-auto-sub --all-subs --no-progress --quiet --ignore-errors \
+youtube-dl --write-sub --write-auto-sub --sub-format "srt" --sub-lang "en,es" --no-progress --quiet --ignore-errors \
 https://www.youtube.com/watch?v=qSDRsz5-t7I \
 https://www.youtube.com/watch?v=mMXDa5hVzXA \
 https://www.youtube.com/watch?v=gzh8ICLMXzQ \
