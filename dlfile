@@ -8,4 +8,7 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget https://github.com/docker/compose/releases/download/1.15.0/docker-compose-Linux-x86_64
+wget http://jorgen.cubava.cu/files/2015/02/UNE-Droid.zip \
+http://jorgen.cubava.cu/files/2015/12/Consumo.rar \
+http://jorgen.cubava.cu/files/2016/01/Metroid_Material_Design.zip \
+http://jorgen.cubava.cu/files/2017/07/Kilowatts_last.rar
