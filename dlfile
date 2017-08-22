@@ -8,7 +8,24 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://jorgen.cubava.cu/files/2015/02/UNE-Droid.zip \
-http://jorgen.cubava.cu/files/2015/12/Consumo.rar \
-http://jorgen.cubava.cu/files/2016/01/Metroid_Material_Design.zip \
-http://jorgen.cubava.cu/files/2017/07/Kilowatts_last.rar
+youtube-dl --write-sub --write-auto-sub --all-subs --no-progress --quiet --ignore-errors \
+https://www.youtube.com/watch?v=qSDRsz5-t7I \
+https://www.youtube.com/watch?v=mMXDa5hVzXA \
+https://www.youtube.com/watch?v=gzh8ICLMXzQ \
+https://www.youtube.com/watch?v=luexM-ktBZ0 \
+https://www.youtube.com/watch?v=edxyBS6Tb1Y \
+https://www.youtube.com/watch?v=BXHu6y94V60 \
+https://www.youtube.com/watch?v=yEYvlh1KaFs \
+https://www.youtube.com/watch?v=D3p75B3QwQ0 \
+https://www.youtube.com/watch?v=-VqK2JILyWE \
+https://www.youtube.com/watch?v=-gCeiSxmpXk \
+https://www.youtube.com/watch?v=bF3OyQ3HwfU \
+https://www.youtube.com/watch?v=TdUK6RPdIrA \
+https://www.youtube.com/watch?v=Fq9Amy2iAIg \
+https://www.youtube.com/watch?v=b0jCUsenNsY \
+https://www.youtube.com/watch?v=eTS5yhZo47Y \
+https://www.youtube.com/watch?v=QB2mMqQvy7w \
+https://www.youtube.com/watch?v=Ma6TfpPQYO0 \
+https://www.youtube.com/watch?v=D4BSyVUiHXQ \
+https://www.youtube.com/watch?v=93bO2nBrptM \
+https://www.youtube.com/watch?v=1S-Ptf8w1s0
