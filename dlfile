@@ -8,25 +8,8 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl --write-sub --write-auto-sub --sub-format "srt" --sub-lang "en,es" --no-progress --quiet --ignore-errors \
-https://www.youtube.com/watch?v=qSDRsz5-t7I \
-https://www.youtube.com/watch?v=mMXDa5hVzXA \
-https://www.youtube.com/watch?v=gzh8ICLMXzQ \
-https://www.youtube.com/watch?v=luexM-ktBZ0 \
-https://www.youtube.com/watch?v=edxyBS6Tb1Y \
-https://www.youtube.com/watch?v=BXHu6y94V60 \
-https://www.youtube.com/watch?v=yEYvlh1KaFs \
-https://www.youtube.com/watch?v=D3p75B3QwQ0 \
-https://www.youtube.com/watch?v=-VqK2JILyWE \
-https://www.youtube.com/watch?v=-gCeiSxmpXk \
-https://www.youtube.com/watch?v=bF3OyQ3HwfU \
-https://www.youtube.com/watch?v=TdUK6RPdIrA \
-https://www.youtube.com/watch?v=Fq9Amy2iAIg \
-https://www.youtube.com/watch?v=b0jCUsenNsY \
-https://www.youtube.com/watch?v=eTS5yhZo47Y \
-https://www.youtube.com/watch?v=QB2mMqQvy7w \
-https://www.youtube.com/watch?v=Ma6TfpPQYO0 \
-https://www.youtube.com/watch?v=D4BSyVUiHXQ \
-https://www.youtube.com/watch?v=93bO2nBrptM \
-https://www.youtube.com/watch?v=1S-Ptf8w1s0
+youtube-dl --no-progress --quiet --ignore-errors \
+https://www.youtube.com/watch?v=2vk7JS-0ir0 \
+https://www.youtube.com/watch?v=m6u6ZohcbaI \
+https://www.youtube.com/watch?v=cyhzpFqXwdA
 
