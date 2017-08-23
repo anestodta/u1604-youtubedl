@@ -8,8 +8,5 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors \
-https://www.youtube.com/watch?v=2vk7JS-0ir0 \
-https://www.youtube.com/watch?v=m6u6ZohcbaI \
-https://www.youtube.com/watch?v=cyhzpFqXwdA
+wget http://apk-downloaders.com/apps/2017/08/23/bigvu.com.reporter_1.0.50_[apk-downloaders.com].apk
 
