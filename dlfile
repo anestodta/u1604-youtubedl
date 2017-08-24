@@ -8,5 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://apk-downloaders.com/apps/2017/08/23/bigvu.com.reporter_1.0.50_[apk-downloaders.com].apk
-
+wget https://releases.hashicorp.com/vagrant/1.9.7/vagrant_1.9.7_x86_64.deb
