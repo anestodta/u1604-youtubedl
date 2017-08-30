@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget https://www.mycasaparticular.com/en/apprenta
+wget http://190.131.246.48/genry-fcc http://190.131.246.48/lighthouse
