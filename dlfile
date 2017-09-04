@@ -7,3 +7,11 @@
 
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
+
+
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
+  https://www.youtube.com/watch?list=PLZCc_omLYhhhN9pRjWgqLo_L_tLkJYO_c
+  
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \  
+  https://www.youtube.com/watch?list=PLZCc_omLYhhj1mFS6JoGqYSUVmKqvtLuG
+  
