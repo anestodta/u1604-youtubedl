@@ -7,5 +7,3 @@
 
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
-
-youtube-dl https://youtu.be/m1gkHY6LR9c
