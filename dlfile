@@ -7,3 +7,14 @@
 
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
+
+wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Android_Developer_Course_Beginner_To_Advanced.part1_Downloadly.ir.rar
+wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Android_Developer_Course_Beginner_To_Advanced.part2_Downloadly.ir.rar
+wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Android_Developer_Course_Beginner_To_Advanced.part3_Downloadly.ir.rar
+wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Android_Developer_Course_Beginner_To_Advanced.part4_Downloadly.ir.rar
+wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Web_Developer_Course_2.0.part1_Downloadly.ir.rar
+wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Web_Developer_Course_2.0.part2_Downloadly.ir.rar
+wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Web_Developer_Course_2.0.part3_Downloadly.ir.rar
+wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Web_Developer_Course_2.0.part4_Downloadly.ir.rar
+wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Web_Developer_Course_2.0.part5_Downloadly.ir.rar
+wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Web_Developer_Course_2.0.part6_Downloadly.ir.rar
