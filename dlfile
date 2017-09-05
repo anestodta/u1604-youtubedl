@@ -8,6 +8,7 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
+wget http://download2230.mediafireuserdownload.com/dqb222fw37vg/cyemlrj0w1v7km7/xf.2018.rar
 wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Android_Developer_Course_Beginner_To_Advanced.part1_Downloadly.ir.rar
 wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Android_Developer_Course_Beginner_To_Advanced.part2_Downloadly.ir.rar
 wget http://dl.downloadly.ir/Files/Elearning/Udemy_The_Complete_Android_Developer_Course_Beginner_To_Advanced.part3_Downloadly.ir.rar
