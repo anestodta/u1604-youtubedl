@@ -7,4 +7,5 @@
 
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
-youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=fntd0sPMOtQ https://www.youtube.com/watch?v=maykR0aVsj8 https://www.youtube.com/watch?v=sL4D_zRUVw4 https://www.youtube.com/watch?v=hwdeUG_gySI https://www.youtube.com/watch?v=c6_Cp-yfyko https://www.youtube.com/watch?v=VU1NKX6Qkxc https://www.youtube.com/watch?v=SH5Xin9_eLU https://www.youtube.com/watch?v=NHI_PhoykVU https://www.youtube.com/watch?v=jl1tGiUiTtI https://www.youtube.com/watch?v=ladXdJ3KKd4 https://www.youtube.com/watch?v=QKNwAPrdGCw https://www.youtube.com/watch?v=tFFn39lLO-U https://www.youtube.com/watch?v=2rhkgB8Cohc https://www.youtube.com/watch?v=RMItRyEHcdo https://www.youtube.com/watch?v=r9InNdOLKX8 https://www.youtube.com/watch?v=f4iiyy28VL4 https://www.youtube.com/watch?v=f4KnHNCZcH4 https://www.youtube.com/watch?v=T9-Mb_axNgA https://www.youtube.com/watch?v=KkzDfgBlDHU https://www.youtube.com/watch?v=q6QTxq_pFn0
+
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=-vVhO1dNMBE https://www.youtube.com/watch?v=WlFwCQ_6-aA https://www.youtube.com/watch?v=4T_G20bPZqQ https://www.youtube.com/watch?v=jJk1K_kr3yU
