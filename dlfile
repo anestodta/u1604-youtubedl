@@ -8,6 +8,32 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' https://www.youtube.com/playlist?list=PLnd9fkM8s2sAX6spCU7dr3aDEde1hOkbK
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' https://www.youtube.com/playlist?list=PLib0J8-a8d3qgK058DYKOkB2B9zT65PIA
-youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' https://www.youtube.com/playlist?list=PL0uO_lVkYFb-gIm1N4dAZYZUSXQ4CaP57
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=CC4CWx2U2zA
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=usZ8MQzbglk
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=WxKZ8hhcmvg
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=uipIBSXQPL8
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=X-g9Vr-WBqI
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=nUUR2nGI5nU
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=cBiOAoqaW2o
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=CC4CWx2U2zA
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=mM86MZeidBY
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=lS3wcRK0vVU
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=IuUK8T_8FNc
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=KHANh7x2XtM
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=uipIBSXQPL8
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=7hRPs64NOf8
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=JErQ72NH4jA
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=b4d4JWq2V84
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=hEoPXmtHWpQ
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=t2sT8SNHvUY
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=B8zhvHAJj8Q
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=24iFdUTTp4I
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=VdQx0qG8TQY
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=sFXngPx3w3M
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=eU72jJJf2wg
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=AJwmy6U2QOg
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=2keRTbA2zAQ
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=Gh_xh8LK3qA
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=-kSVgzCgmok
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=AbEQMY7nDBM
+youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=t2sT8SNHvUY
