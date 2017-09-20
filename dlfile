@@ -8,7 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb
-wget https://github.com/meowtec/Imagine/releases/download/v0.3.1/Imagine-Setup-0.3.1.exe
-wget -O sublime-text-3_build-3143_amd64.deb http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3143_amd64.deb
-wget -O sublime-text-3_build-3143_x64.exe https://download.sublimetext.com/Sublime%20Text%20Build%203143%20x64%20Setup.exe
+wget https://download.sublimetext.com/sublime-text_build-3143_amd64.deb
