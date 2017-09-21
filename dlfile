@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget https://download.sublimetext.com/sublime-text_build-3143_amd64.deb
+wget http://sourceforge.mirrorservice.org/c/cn/cntlm/cntlm/cntlm%200.92.3/cntlm-0.92.3-setup.exe
