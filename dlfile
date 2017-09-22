@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://static.tf3dm.com/models/e8dvd1ke4mps-001.rar
+wget http://static.tf3dm.com/models/1/mmykvmlcm3nk-CenterTable.zip
