@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://cdimage.kali.org/kali-2017.2/kali-linux-2017.2-amd64.iso
+wget http://static.tf3dm.com/models/e8dvd1ke4mps-001.rar
