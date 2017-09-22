@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://sourceforge.mirrorservice.org/p/po/portableapps/Google%20Chrome%20Portable/GoogleChromePortable_61.0.3163.100_online.paf.exe http://sourceforge.mirrorservice.org/p/po/portableapps/Google%20Chrome%20Portable/GoogleChromePortable64_61.0.3163.100_online.paf.exe
+wget http://cdimage.kali.org/kali-2017.2/kali-linux-2017.2-amd64.iso
