@@ -8,17 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W05/Week5-1.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W05/Week5-2.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W05/Week5-3.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W05/Week5-4.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W05/Week5-5.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W06/Week6-1.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W06/Week6-2.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W06/Week6-3.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W06/Week6-4a.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W06/Week6-4b.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W06/Week6-5.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W07/Week7-1.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W07/Week7-2.mp4
-wget https://d3jf8l8djqa87a.cloudfront.net/videos/Courseware/W07/Week7-3.mp4
+youtube-dl --no-progress --quiet --ignore-errors https://youtu.be/iYTEZ0fm4Pw
