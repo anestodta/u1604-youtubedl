@@ -8,4 +8,9 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/embed/AgKc_KUQEtE
+wget http://appldnld.apple.com/ios10.3.3/091-23133-20170719-CA8E78E6-6977-11E7-968B-2B9100BA0AE3/iPhone_4.0_64bit_10.3.3_14G60_Restore.ipsw
+wget http://appldnld.apple.com/ios10.3.3/091-23441-20170719-CA9B0570-6977-11E7-95CC-3F9100BA0AE3/iPhone_4.7_10.3.3_14G60_Restore.ipsw
+wget http://appldnld.apple.com/ios10.3.3/091-23338-20170719-CA990FD6-6977-11E7-AE41-3B9100BA0AE3/iPhone_5.5_10.3.3_14G60_Restore.ipsw
+wget http://appldnld.apple.com/ios11.0.1/091-34107-20170925-2FCCDAE2-9ED2-11E7-BBF1-71AAC568F843/iPhone_4.0_64bit_11.0.1_15A402_Restore.ipsw
+wget http://appldnld.apple.com/ios11.0.1/091-34214-20170925-2FD91DC0-9ED2-11E7-ADFA-79AAC568F843/iPhone_5.5_11.0.1_15A402_Restore.ipsw
+wget http://appldnld.apple.com/ios11.0.1/091-34026-20170925-2FCF27B6-9ED2-11E7-AE9C-6AAAC568F843/iPhone_4.7_11.0.1_15A402_Restore.ipsw
