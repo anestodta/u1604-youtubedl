@@ -8,4 +8,4 @@
 #para descargar videos
 #youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-wget http://www.cygwin.com/setup-x86_64.exe
+wget https://acrosync.com/win32/acrosync_installer_win32_1.6_582.exe
