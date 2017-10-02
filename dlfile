@@ -15,7 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget http://apk-downloaders.com/apps/2017/10/02/com.cubamessenger.cubamessengerapp_6.4_[apk-downloaders.com].apk
-wget http://apk-downloaders.com/com.wapkobbdownload.apk
-wget http://dl.apk-downloaders.com/apps/2017/09/17/com.ea.game.pvz2_row_6.3.1_[apk-downloaders.com].apk
-wget http://dl.apk-downloaders.com/apps/2017/09/17/com.animoca.google.starGirlValentine_3.10_[apk-downloaders.com].apk
+wget http://download.virtualbox.org/virtualbox/5.1.28/Oracle_VM_VirtualBox_Extension_Pack-5.1.28-117968.vbox-extpack
