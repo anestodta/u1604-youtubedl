@@ -6,6 +6,11 @@
 #           [playlist url]
 
 #para descargar videos
-#youtube-dl --no-progress --quiet --ignore-errors [videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors https://www.youtube.com/watch?v=O_2J6dPSHSo https://www.youtube.com/watch?v=mgVH3NMGMUg https://www.youtube.com/watch?v=x62K4ObBtw4 https://www.youtube.com/watch?v=0oGuFgv0qgo https://www.youtube.com/watch?v=bP0q0kbYYkA https://www.youtube.com/watch?v=W7YQDnweQIc https://www.youtube.com/watch?v=jUi6hwoWA_Q https://www.youtube.com/watch?v=K0de6RE9Ih8 https://www.youtube.com/watch?v=iLgVXHGmyMs
+#youtube-dl --no-progress --quiet --ignore-errors [video url] [video url] [video url]
+
+#youtube-dl --no-progress --quiet --ignore-errors \
+#[videos url] \
+#[videos url] \
+#[videos url] \
+#[videos url]
