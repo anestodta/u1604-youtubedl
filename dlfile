@@ -15,6 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget https://nodejs.org/dist/v8.6.0/node-v8.6.0-x64.msi
-wget https://nodejs.org/dist/v6.11.3/node-v6.11.3-x64.msi
-wget https://yarnpkg.com/latest.msi
+wget https://github.com/yarnpkg/yarn/releases/download/v1.1.0/yarn_1.1.0_all.deb
+wget https://github.com/yarnpkg/yarn/releases/download/v1.1.0/yarn-1.1.0.msi
