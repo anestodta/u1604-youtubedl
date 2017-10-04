@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://github.com/yarnpkg/yarn/releases/download/v1.1.0/yarn_1.1.0_all.deb
-wget https://github.com/yarnpkg/yarn/releases/download/v1.1.0/yarn-1.1.0.msi
+wget https://miktex.org/download/ctan/systems/win32/miktex/setup/basic-miktex-2.9.6361-x64.exe
