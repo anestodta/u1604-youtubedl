@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://github.com/egoist/devdocs-app/releases/download/v0.6.6/DevDocs-Setup-0.6.6.exe https://github.com/egoist/devdocs-desktop/releases/download/v0.6.6/DevDocs-0.6.6-win.zip
+wget http://get.daum.net/PotPlayer64/Version/Latest/PotPlayerSetup64.exe http://files2.codecguide.com/K-Lite_Codec_Pack_1355_Mega.exe http://cn.ejie.me/uploads/setup_clover@3.4.0.exe
