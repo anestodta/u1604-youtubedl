@@ -14,3 +14,5 @@
 #[videos url] \
 #[videos url] \
 #[videos url]
+
+wget https://github.com/egoist/devdocs-app/releases/download/v0.6.6/DevDocs-Setup-0.6.6.exe https://github.com/egoist/devdocs-desktop/releases/download/v0.6.6/DevDocs-0.6.6-win.zip
