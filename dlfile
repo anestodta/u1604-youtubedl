@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://github.com/egoist/devdocs-desktop/releases/download/v0.6.6/DevDocs_0.6.6_amd64.deb
+youtube-dl https://www.youtube.com/watch?v=PJif5o9zAks https://www.youtube.com/watch?v=0p8LD-_5cTU https://www.youtube.com/watch?v=6vaiTGbC9B8 https://www.youtube.com/watch?v=o-dj6qprNoM https://www.youtube.com/watch?v=Y6vE1k7CVUw https://www.youtube.com/watch?v=ElYnj1O8NhY https://www.youtube.com/watch?v=IYJjrvXSbnM https://www.youtube.com/watch?v=JGIFN9HHl04
