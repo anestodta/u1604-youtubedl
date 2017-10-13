@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget "http://dl.apk-downloaders.com/apps/2017/09/15/com.teslacoilsw.launcher_5.4.1_[apk-downloaders.com].apk"
+youtube-dl https://www.youtube.com/watch?v=tSW72IlTJGw
