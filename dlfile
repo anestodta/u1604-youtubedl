@@ -15,7 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget "http://dl.apk-downloaders.com/apps/2017/09/12/com.microsoft.next_3.11.5_[apk-downloaders.com].apk"
-wget "http://dl.apk-downloaders.com/apps/2017/10/11/com.twitter.android_7.17.0_[apk-downloaders.com].apk"
-wget "http://apk-downloaders.com/apps/2017/10/13/com.touchtype.swiftkey_6.6.9.32_[apk-downloaders.com].apk"
-wget "http://apk-downloaders.com/apps/2017/10/13/com.google.android.keep_4.0.391.06.30_[apk-downloaders.com].apk"
+wget http://dl.apk-downloaders.com/apps/2017/09/15/com.teslacoilsw.launcher_5.4.1_[apk-downloaders.com].apk
+wget http://dl.apk-downloaders.com/apps/2017/09/12/com.microsoft.next_3.11.5_[apk-downloaders.com].apk
