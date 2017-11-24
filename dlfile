@@ -15,11 +15,11 @@
 #[videos url] \
 #[videos url]
 
-https://www.youtube.com/watch?v=MrV0DqTqpFU
-https://www.youtube.com/watch?v=gF8v51i6Y1c
-https://www.youtube.com/watch?v=k_Y5ieFHGbs
-https://www.youtube.com/watch?v=nkldCk8Z3ik
-https://www.youtube.com/watch?v=FP9b3QFgZd4
-https://www.youtube.com/watch?v=b10N0mK_5OI
-https://www.youtube.com/watch?v=FJ3T8ytF6ro
-https://www.youtube.com/watch?v=CnwCwliaa7g
+youtube-dl https://www.youtube.com/watch?v=MrV0DqTqpFU
+youtube-dl https://www.youtube.com/watch?v=gF8v51i6Y1c
+youtube-dl https://www.youtube.com/watch?v=k_Y5ieFHGbs
+youtube-dl https://www.youtube.com/watch?v=nkldCk8Z3ik
+youtube-dl https://www.youtube.com/watch?v=FP9b3QFgZd4
+youtube-dl https://www.youtube.com/watch?v=b10N0mK_5OI
+youtube-dl https://www.youtube.com/watch?v=FJ3T8ytF6ro
+youtube-dl https://www.youtube.com/watch?v=CnwCwliaa7g
