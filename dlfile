@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://youtu.be/lEmuj3bVrW0?list=PLsqSLeo9DZwQaX4N64YIYtYzF_4sPkuRw
+youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' https://youtu.be/lEmuj3bVrW0?list=PLsqSLeo9DZwQaX4N64YIYtYzF_4sPkuRw
