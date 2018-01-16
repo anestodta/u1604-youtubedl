@@ -15,4 +15,5 @@
 #[videos url] \
 #[videos url]
 
-wget https://downloads.mesosphere.com/universe/public/local-universe.tar.gz
+youtube-dl https://www.youtube.com/embed/D7H2aL5NMZA
+wget http://190.131.246.48/local-universe.tar.gz
