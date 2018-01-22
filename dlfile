@@ -15,5 +15,4 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl https://www.youtube.com/embed/D7H2aL5NMZA
-wget http://190.131.246.48/local-universe.tar.gz
+wget https://github.com/apache/spark/archive/fedbfc7074dd6d38dc5301d66d1ca097bc2a21e0.zip
