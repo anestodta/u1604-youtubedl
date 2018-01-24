@@ -15,4 +15,37 @@
 #[videos url] \
 #[videos url]
 
-wget https://github.com/apache/spark/archive/fedbfc7074dd6d38dc5301d66d1ca097bc2a21e0.zip
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1876-01_Chipset__28.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-2115-01_Storage__41.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-2426-01_AMT__28.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-2428-01_MEI__38.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-2414-01_Graphics__43.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-2260-01_Audio__47.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-2111-01_Bluetooth__28.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1959-01_LAN__28.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-2350-01_WLAN_Intel__51.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-2124-01_Pointing__40.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1813-01_SmartCard__66.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1814-01_MediaSlot__56.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1942-01_Fpsensor__42.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-2011-01_BiosDrv__33.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1829-01_FUJ02E3__28.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1945-01_WRSD__33.7z
+
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-2424-01_AI__66.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1842-01_SysExt__36.7z\
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1805-01_USBCharge__48.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1971-01_BatteryUtl__79.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1817-01_PowerDVD__58.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1818-01_PowrDVDBD__58.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1838-01_MobCntrExt__58.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1856-01_FuncMngr__44.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1902-01_LAP__50.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-1928-01_Roxio__52.7z
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/FPC48-2187-01_WPP__37.7z
+
+wget http://www.fujitsu.com/downloads/COMP/fpcap/drivers/BIOS/E7X6/BIOSWindows_E7X6_ST_1.27.exe
+wget http://www.fujitsu.com/downloads/COMP/fpcap/drivers/BIOS/E7X6/BIOSWindows_E7X6_VP_1.21.exe
+
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/Image%20Backup%20and%20Recovery%20Windows%2010%20ENG.pdf
+wget http://www.fujitsu.com/downloads/COMP/fpcap/fsdm/Fujitsu%20LIFEBOOK%20E756_E746_E736%20User%20Manual%20EN.pdf
