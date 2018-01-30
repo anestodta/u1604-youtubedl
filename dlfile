@@ -15,4 +15,4 @@
 #[videos url] \
 #[videos url]
 
-wget https://download.robomongo.org/1.1.1/windows/robo3t-1.1.1-windows-x86_64-c93c6b0.zip
+wget https://github.com/sbt/sbt/releases/download/v1.1.0/sbt-1.1.0.zip
