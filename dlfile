@@ -15,4 +15,12 @@
 #[videos url] \
 #[videos url]
 
-wget https://github.com/sbt/sbt/releases/download/v1.1.0/sbt-1.1.0.zip
+youtube-dl https://youtu.be/5vQgtUlwxn0
+youtube-dl https://youtu.be/3XQYoJTKGsA
+youtube-dl https://youtu.be/x7kg8ihW3ZM
+youtube-dl https://youtu.be/H9lOZpEr1Pk
+youtube-dl https://youtu.be/6A2-FNbNWYA
+youtube-dl https://youtu.be/Tn3letHL60U
+youtube-dl https://youtu.be/zQ8B2cByS1s
+youtube-dl https://youtu.be/nXVLQCBddCo
+youtube-dl https://youtu.be/OTF1SAWbnGo
